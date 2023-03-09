@@ -1,0 +1,5 @@
+x = input("Enter first number: ")
+a = input("Enter second number: ")
+b = input("Enter second number: ")
+c = max(x, a, b)
+print(c)
